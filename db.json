@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Bell Pepper",
+      "category": "Vegetables",
+      "price": 56,
+      "oldPrice": 80,
+      "discount": 30,
+      "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Strawberry",
+      "category": "Fruits",
+      "price": 96,
+      "oldPrice": 120,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1571047399553-69e3953f3f7e?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Green Beans",
+      "category": "Vegetables",
+      "price": 67.5,
+      "oldPrice": 90,
+      "discount": 25,
+      "image": "https://images.unsplash.com/photo-1604908177527-2b2276f4f0b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Purple Cabbage",
+      "category": "Vegetables",
+      "price": 101.2,
+      "oldPrice": 110,
+      "discount": 8,
+      "image": "https://images.unsplash.com/photo-1617196036112-0a1b2d9c4f4c?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Tomato",
+      "category": "Vegetables",
+      "price": 49,
+      "oldPrice": 70,
+      "discount": 30,
+      "image": "https://images.unsplash.com/photo-1607752238406-9e1230bb8f5d?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Broccoli",
+      "category": "Vegetables",
+      "price": 103.2,
+      "oldPrice": 120,
+      "discount": 14,
+      "image": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": 7,
+      "name": "Carrots",
+      "category": "Vegetables",
+      "price": 76,
+      "oldPrice": 95,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1582515073490-399813a0c4f5?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": 8,
+      "name": "Fruit Juice",
+      "category": "Juice",
+      "price": 113.1,
+      "oldPrice": 130,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1587620931242-6b78b6e3e3f1?auto=format&fit=crop&w=400&q=80"
+    }
+  ]
+}
